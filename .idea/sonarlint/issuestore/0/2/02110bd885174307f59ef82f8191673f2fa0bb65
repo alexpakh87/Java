@@ -1,0 +1,9 @@
+
+
+java:S1226"@Introduce a new variable instead of reusing the parameter "msg".(ζσψÿÿÿÿ8™σΔι1J$896a39ea-05fd-4687-9b63-b0238f46c3cc
+ƒ
+java:S2134"@Don't extend "Thread", since the "run" method is not overridden.(εΩ½η8σΔι1J$b1dd3e7a-70a9-44f8-ac12-540f2f586c11
+
+java:S1854"7Remove this useless assignment to local variable "msg".(ζσψÿÿÿÿ8σΔι1J$4d776c05-16ac-4bb8-8b73-8680ed5c6b0d
+l	java:S106"+Replace this use of System.out by a logger.(‚‰18σΔι1J$984e3c99-c0d8-4bdd-bba8-9684bde196ad
+l	java:S106"+Replace this use of System.out by a logger.(‚‰18σΔι1J$389824eb-d0cd-4425-a828-571f28c22f2a

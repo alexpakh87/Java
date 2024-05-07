@@ -1,0 +1,7 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8·ö¶ïñ1J$2236e73e-5c34-47bd-8109-4f6456e5c10b
+r	java:S106"+Replace this use of System.out by a logger.(Éªàùÿÿÿÿ8¾ö¶ïñ1J$bb10aa70-1a83-4a7b-9bf6-47406b7c0390
+¹
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78¿ö¶ïñ1J$dfab8c20-975c-437a-ab0d-8d44038bcd78
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Âö¶ïñ1J$aa58f26e-0139-4b17-b8ac-ea7d91b6f4a9

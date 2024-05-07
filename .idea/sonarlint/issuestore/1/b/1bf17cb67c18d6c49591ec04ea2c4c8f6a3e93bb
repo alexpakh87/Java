@@ -1,0 +1,16 @@
+
+w
+java:S3740"/Provide the parametrized type for this generic.(Μ³ƒόÿÿÿÿ8‡σΔι1J$e91c168f-de31-45bc-9c8f-841608eaa20b
+w
+java:S3740"/Provide the parametrized type for this generic.(Μ³ƒόÿÿÿÿ8‡σΔι1J$d1ed36c1-8e6d-4e0f-b9b4-bf1b76e45758
+^
+java:S2326"T is not used in the class.(­°¦σ8σΔι1J$bd6cb9bb-ab16-4341-9004-93691049a067
+r	java:S106
+"+Replace this use of System.out by a logger.(©ΪΟπύÿÿÿÿ8σΔι1J$d5fb3f0c-c662-4735-bf65-c6452a22298c
+l	java:S106"+Replace this use of System.out by a logger.(ΛΡ 8σΔι1J$f478a54f-fd56-4d96-a72b-4e0c4cad9dc0
+}
+java:S1854"5Remove this useless assignment to local variable "g".(Μ³ƒόÿÿÿÿ8σΔι1J$7a8e45c3-40cb-4c71-9c2f-e653cb9f3d56
+n
+java:S1481"&Remove this unused "g" local variable.(Μ³ƒόÿÿÿÿ8σΔι1J$e95bc308-9bab-45a7-a19f-d99a616376f8
+x
+java:S1128"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥σ8σΔι1J$a565cb3d-cb85-495d-89c4-de58b7423f11

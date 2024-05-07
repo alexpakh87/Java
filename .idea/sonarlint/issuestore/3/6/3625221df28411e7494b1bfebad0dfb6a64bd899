@@ -1,0 +1,11 @@
+
+	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ú”Ôññ1J$2d3b4fc1-2b1f-4cff-aa5f-ede717f3b62c
+g
+java:S1659"Declare "y" on a separate line.(éšçÚıÿÿÿÿ8à”Ôññ1J$52272082-dd61-4661-9bb6-7ded3fc121a2
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8â”Ôññ1J$e4dffe81-fff4-46cc-b9ec-7aa50c938f81
+†
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(ˆ¨öµ8â”Ôññ1J$1e48aa56-1ece-4467-87fc-d3ecd473bae9
+r	java:S106"+Replace this use of System.out by a logger.(å»Ê¥ùÿÿÿÿ8ã”Ôññ1J$e3a01e0a-1fa7-40ff-a26b-dd6a42322c11
+¹
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78ä”Ôññ1J$af162d35-f902-491f-8b28-e165dadbe37a

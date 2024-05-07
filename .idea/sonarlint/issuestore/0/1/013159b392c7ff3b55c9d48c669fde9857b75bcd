@@ -1,0 +1,12 @@
+
+k
+java:S5411
+"(Use a primitive boolean expression here.(´Ú§³8±Çññ1J$def7b669-443d-4245-a3ec-427285ce318f
+‹
+java:S2166"CRename this class to remove "Exception" or correct its inheritance.(¥æøĞøÿÿÿÿ8š±Çññ1J$095fed85-c476-4976-9d96-6a1b2dbc2f6a
+x
+java:S1854	"5Remove this useless assignment to local variable "t".(¢„×ñ8±Çññ1J$a59165c5-f0a1-4a7b-8f9e-0df61e9575b1
+i
+java:S1481	"&Remove this unused "t" local variable.(¢„×ñ8 ±Çññ1J$460a0ea2-eaf1-4ca6-a60f-a859cc29b665
+m	java:S106"+Replace this use of System.out by a logger.(ûåóˆ8 ±Çññ1J$729d58e8-03ae-4737-a628-e7ea20702d72
+m	java:S106"+Replace this use of System.out by a logger.(äã–8¡±Çññ1J$9ab968cb-0801-4ae6-9107-346369562851

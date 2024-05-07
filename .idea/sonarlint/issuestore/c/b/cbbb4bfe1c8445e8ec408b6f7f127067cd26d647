@@ -1,0 +1,21 @@
+
+F	java:S106"+Replace this use of System.out by a logger.(Γϊχ?8ϋέ§ορ1
+^
+java:S1854."ARemove this useless assignment to local variable "runWithMethod".(ΨΉ8ύέ§ορ1
+L	java:S106"+Replace this use of System.out by a logger.(›Σπ°ώÿÿÿÿ8ώέ§ορ1
+G	java:S106%"+Replace this use of System.out by a logger.(Α¨σΊ8ÿέ§ορ1
+}
+java:S1217'"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(”Λ›€8€ή§ορ1
+L	java:S106*"+Replace this use of System.out by a logger.(λΆ©Όόÿÿÿÿ8ή§ορ1
+I
+java:S1602.",Remove useless curly braces around statement(ΨΉ8‚ή§ορ1
+U
+java:S24382"8Replace "t" of type Thread with an instance of Runnable.(¨¦ΣΨ8ƒή§ορ1
+L	java:S1063"+Replace this use of System.out by a logger.(ΪΗύ®ÿÿÿÿÿ8ƒή§ορ1
+O
+java:S1481."2Remove this unused "runWithMethod" local variable.(ΨΉ8„ή§ορ1
+U
+java:S24386"8Replace "t" of type Thread with an instance of Runnable.(¨¦ΣΨ8„ή§ορ1
+U
+java:S24387"8Replace "t" of type Thread with an instance of Runnable.(¨¦ΣΨ8…ή§ορ1
+W	java:S1258"<This block of commented-out lines of code should be removed.(“ό¶ 8…ή§ορ1

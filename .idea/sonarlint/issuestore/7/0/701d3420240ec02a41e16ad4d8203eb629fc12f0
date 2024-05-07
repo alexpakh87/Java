@@ -1,0 +1,17 @@
+
+j
+java:S2189.""Add an end condition to this loop.(οÿÿÿÿÿ8ξΊ£θι1J$fe153e59-a31b-4f7e-b710-d2ad7bf90bbc
+j
+java:S2189?""Add an end condition to this loop.(οÿÿÿÿÿ8ξΊ£θι1J$edec0d9f-948a-4087-880b-b60f268d92e7
+¦
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ÿα¶ιψÿÿÿÿ8ΓςΔι1J$2689888e-e302-4000-ba9e-a6214330e1e2
+m	java:S106"+Replace this use of System.out by a logger.(ΓΈ‘8ΔςΔι1J$0da1e08f-1496-488a-b239-6e42198513ab
+r	java:S106"+Replace this use of System.out by a logger.(ΡΔ°Δÿÿÿÿÿ8ΔςΔι1J$b159228f-08d3-49a6-9feb-ba5577914536
+x
+java:S2446"0"notify" may not wake up the appropriate thread.(σΔ£¶ψÿÿÿÿ8ΕςΔι1J$e922e18c-a45e-4dfd-9bc7-6cbf21e50378
+¦
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ÿα¶ιψÿÿÿÿ8ΖςΔι1J$f1659a2b-1cac-4082-a6ad-550f1bc51e13
+r	java:S106"+Replace this use of System.out by a logger.(ρ™τύψÿÿÿÿ8ΖςΔι1J$c1e3a43f-49d9-4daa-b75e-8e67d8a27e80
+m	java:S106"+Replace this use of System.out by a logger.(φ¨€Χ8ΖςΔι1J$c21b41d4-b56f-4418-ae34-c01cc5d7ea6e
+x
+java:S2446"0"notify" may not wake up the appropriate thread.(σΔ£¶ψÿÿÿÿ8ΖςΔι1J$7e5149b9-a756-4500-9c93-aa93a83b117a
